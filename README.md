@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm lewis</h1>
+<h3 align="center">A passionate full stack developer from the uk</h3>
+<hr>
+<h3 align="left">PC SPECS:</h3>
+<p align="left">
+  cpu: i7-8700k<br>
+  gpu2: gtx 1070 ti<br>
+  gpu: gtx 1650 oc<br>
+  ram: 3200 MHz DDR4 32GB<br>
+</p>
+<h1>my projects</h1>
 
-<!--
-**thestonedsasquatch/thestonedsasquatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![logo](https://github.com/user-attachments/assets/efd70858-bb42-484d-b6e9-973ec60b8447)](https://github.com/thestonedsasquatch/EvilPoint/)
